@@ -1,3 +1,3 @@
-# Browser Extension Dashboard
+# Browser Extension Manager
 
-![Alt text](src/assets/browser-extension-dashboard.jpeg)
+![Alt text](src/assets/browser-extension-manager.png)
